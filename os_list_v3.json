@@ -1,0 +1,78 @@
+{
+  "os_list": [
+    {
+      "os_name": "RetropiePS2Leepsp",
+      "description": "RetroPie communautaire pour Raspberry Pi 5 (RetropiePS2Leepsp v4.8.9)",
+      "release_date": "2025-05-21",
+      "supported_models": [
+        "Pi 3",
+        "Pi Compute Module 3",
+        "Pi Compute Module 4",
+        "Pi Compute Module 5",
+        "Pi 4",
+        "Pi 5"
+      ],
+      "group": "Games",
+      "download_size": 1834430408,
+      "feature_level": 0,
+      "supported_hex_revisions": "1040,1041,2082",
+      "url": "https://retropie.org.uk/",
+      "os_info": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/os.json",
+      "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/partitions.json",
+      "icon": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/RetropiePS2Leepsp.png",
+      "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/marketing.tar",
+      "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/partition_setup.sh",
+      "tarballs": [
+        "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/boot.tar.xz",
+        "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/retropie.tar.xz"
+      ],
+      "nominal_size": 8150
+    },
+    {
+      "os_name": "batocera_RPi5",
+      "description": "Batocera pour Raspberry Pi 5",
+      "release_date": "2024-12-17",
+      "supported_models": [
+        "Pi 5",
+        "Pi Compute Module 5"
+      ],
+      "group": "Games",
+      "download_size": 2134168508,
+      "version": "bookworm",
+      "url": "https://batocera.org",
+      "os_info": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/os.json",
+      "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partitions.json",
+      "icon": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/batocera_RPi5.png",
+      "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/marketing.tar",
+      "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partition_setup.sh",
+      "tarballs": [
+        "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/BATOCERA.tar.xz",
+        "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/SHARE.tar.xz"
+      ],
+      "nominal_size": 6622
+    },
+    {
+      "os_name": "recalbox5",
+      "description": "Recalbox 9.2.3 Pulstar pour Raspberry Pi 5",
+      "release_date": "2025-08-01",
+      "supported_models": [
+        "Pi 5",
+        "Pi Compute Module 5"
+      ],
+      "group": "Games",
+      "download_size": 1246764132,
+      "version": "9.2.3",
+      "supports_usb_boot": true,
+      "supports_usb_root": true,
+      "os_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/os.json",
+      "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partitions.json",
+      "icon": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/recalbox5.png",
+      "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/marketing.tar",
+      "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partition_setup.sh",
+      "tarballs": [
+        "http://downloads.sourceforge.net/project/pinn/os/recalbox5/RECALBOX.tar.xz"
+      ],
+      "nominal_size": 3072
+    }
+  ]
+}
