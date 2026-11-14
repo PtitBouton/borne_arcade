@@ -2,8 +2,10 @@
   "os_list": [
     {
       "os_name": "RetropiePS2Leepsp",
-      "description": "RetroPie communautaire pour Raspberry Pi 5 (RetropiePS2Leepsp v4.8.9)",
+      "description": "RetropiePS2Leepsp v4.8.9 Retropie5PSPleepsp for arm64",
       "release_date": "2025-05-21",
+      "feature_level": 0,
+      "supported_hex_revisions": "1040,1041,2082",
       "supported_models": [
         "Pi 3",
         "Pi Compute Module 3",
@@ -12,11 +14,9 @@
         "Pi 4",
         "Pi 5"
       ],
+      "url": "https://retropie.org.uk/",
       "group": "Games",
       "download_size": 1834430408,
-      "feature_level": 0,
-      "supported_hex_revisions": "1040,1041,2082",
-      "url": "https://retropie.org.uk/",
       "os_info": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/os.json",
       "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/partitions.json",
       "icon": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/RetropiePS2Leepsp.png",
@@ -30,16 +30,16 @@
     },
     {
       "os_name": "batocera_RPi5",
-      "description": "Batocera pour Raspberry Pi 5",
+      "description": "batocera.linux, the open source retro gaming console",
       "release_date": "2024-12-17",
+      "version": "bookworm",
       "supported_models": [
         "Pi 5",
         "Pi Compute Module 5"
       ],
+      "url": "https://batocera.org",
       "group": "Games",
       "download_size": 2134168508,
-      "version": "bookworm",
-      "url": "https://batocera.org",
       "os_info": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/os.json",
       "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partitions.json",
       "icon": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/batocera_RPi5.png",
@@ -53,17 +53,17 @@
     },
     {
       "os_name": "recalbox5",
-      "description": "Recalbox 9.2.3 Pulstar pour Raspberry Pi 5",
+      "description": "recalbox5 9.2.3 Pulstar. THE all-in-one retro gaming console!",
       "release_date": "2025-08-01",
+      "version": "9.2.3",
       "supported_models": [
         "Pi 5",
         "Pi Compute Module 5"
       ],
-      "group": "Games",
-      "download_size": 1246764132,
-      "version": "9.2.3",
       "supports_usb_boot": true,
       "supports_usb_root": true,
+      "group": "Games",
+      "download_size": 1246764132,
       "os_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/os.json",
       "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partitions.json",
       "icon": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/recalbox5.png",
